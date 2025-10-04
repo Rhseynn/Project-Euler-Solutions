@@ -1,0 +1,14 @@
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\bin\Debug\net9.0\euler2.exe
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\bin\Debug\net9.0\euler2.deps.json
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\bin\Debug\net9.0\euler2.runtimeconfig.json
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\bin\Debug\net9.0\euler2.dll
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\bin\Debug\net9.0\euler2.pdb
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\obj\Debug\net9.0\euler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\obj\Debug\net9.0\euler2.AssemblyInfoInputs.cache
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\obj\Debug\net9.0\euler2.AssemblyInfo.cs
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\obj\Debug\net9.0\euler2.csproj.CoreCompileInputs.cache
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\obj\Debug\net9.0\euler2.dll
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\obj\Debug\net9.0\refint\euler2.dll
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\obj\Debug\net9.0\euler2.pdb
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\obj\Debug\net9.0\euler2.genruntimeconfig.cache
+C:\Users\rufth\OneDrive\Desktop\euler2\euler2\obj\Debug\net9.0\ref\euler2.dll
